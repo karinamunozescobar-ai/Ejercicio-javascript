@@ -1,3 +1,11 @@
-# Ejercicio-javascript
-# Ejercicio-javascript
-Ejercicio-javascript
+# Ejercicios JavaScript Básico
+
+Este repositorio contiene ejercicios de:
+
+- Variables
+- Operadores
+- Comparaciones
+- Operadores lógicos
+
+## Autor
+Karina Muñoz

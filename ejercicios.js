@@ -51,8 +51,7 @@ console.log(edad < 18);
 
 console.log("Ejercicio 6");
 let variableEdad = 8;
-console.log(variableEdad > 5);
-console.log(variableEdad < 10);
+console.log(variableEdad > 5 && variableEdad < 10);
 
 console.log("Ejercicio 7");
 let nota = 6;
@@ -66,7 +65,7 @@ console.log("Ejercicio 9");
 let numero1 = 2
 let numero2 = 3
 console.log(numero1==numero2);
-console.log(numero1>numero2||numero1<numero2);
+console.log(numero1>numero2);
 
 console.log("Ejercicio 10");
 let edad1 = 17;
@@ -76,4 +75,4 @@ console.log("Puede conducir", edad1 >= 18 || tienePermiso);
 console.log("Ejercicio 11");
 let usuario = "admin";
 let password = "1234";
-console.log("usuario es", usuario, "y", "password es", password);
+console.log(`Mi usuario es ${usuario} y mi password es ${password}`);
